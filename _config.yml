@@ -1,6 +1,6 @@
 title: Nassets                 # title of the site
 description: Nassets           # description of the site
-url: https:nassets.github.io   # domain
+url: https://nassets.github.io # domain
 baseurl: ""                    # root directory
 
 # Path of site resources
