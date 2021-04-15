@@ -24,7 +24,7 @@ defaults:
     values:
       layout: "post"
 
-disqus: nassets
+        # disqus: nassets
 email: nanjisheng@yandex.com
 
 socials:
